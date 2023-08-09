@@ -1,4 +1,4 @@
 - name: Install dependencies
   run: |
-    cd .github\workflows\requirements.txt  
+    #cd requirements.txt  
     pip install -r requirements.txt
